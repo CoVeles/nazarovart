@@ -70,7 +70,7 @@ body {
 /* --- header --- */
 
 .header-container {
-  background-color: #443535;
+  background-color: #625c5c;
   justify-content: space-between;
   align-items: center;
   border-top-left-radius: 25px;
@@ -222,7 +222,7 @@ font-family: 'Prata', serif;
 /* --- footer --- */
 
 .footer-container {
-  background-color: #443535;
+  background-color: #625c5c;
   align-items: center;
   padding: 5px 15px;
   /* border-radius: 25px; */
@@ -242,6 +242,7 @@ font-family: 'Prata', serif;
 
 .mail {
   padding-left: 30px;
+  font-size: large;
   background-image: url("../img/emailwhite.png");
   background-position: left center;
   background-size: 25px 25px;
